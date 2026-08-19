@@ -2,1173 +2,1255 @@
   "items": [
     {
       "description": "Made with Electron.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Visual Studio Code",
+                  "description": "Cross-platform IDE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41881900,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T12:29:24Z",
+                    "owner": "microsoft",
+                    "repo": "vscode",
+                    "stars": 188923
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hyper",
+                  "description": "Terminal.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62367558,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-29T11:03:02Z",
+                    "owner": "vercel",
+                    "repo": "hyper",
+                    "stars": 44695
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WebTorrent",
+                  "description": "Streaming torrent client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35015575,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-11T21:55:07Z",
+                    "owner": "webtorrent",
+                    "repo": "webtorrent-desktop",
+                    "stars": 10108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Min",
+                  "description": "Minimal web browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45319761,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-09T20:08:18Z",
+                    "owner": "minbrowser",
+                    "repo": "min",
+                    "stars": 9147
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Featured"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mark Text",
+                  "description": "Real-time preview Markdown editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110446844,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-27T03:16:54Z",
+                    "owner": "marktext",
+                    "repo": "marktext",
+                    "stars": 60296
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Motrix",
+                  "description": "Download manager.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162279822,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T17:18:51Z",
+                    "owner": "agalwood",
+                    "repo": "Motrix",
+                    "stars": 53966
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LosslessCut",
+                  "description": "Lossless video trimming & cutting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72343657,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-14T22:07:25Z",
+                    "owner": "mifi",
+                    "repo": "lossless-cut",
+                    "stars": 43034
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Insomnia",
+                  "description": "Create and manage HTTP requests.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56899284,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T09:25:46Z",
+                    "owner": "Kong",
+                    "repo": "insomnia",
+                    "stars": 39956
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Etcher",
+                  "description": "Flash OS images to SD cards and USB drives.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45055693,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-02T09:25:23Z",
+                    "owner": "balena-io",
+                    "repo": "etcher",
+                    "stars": 34191
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Netron",
+                  "description": "Visualizer for deep learning and machine learning models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1198539,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T12:11:10Z",
+                    "owner": "lutzroeder",
+                    "repo": "netron",
+                    "stars": 33367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Notable",
+                  "description": "Markdown-based note-taking.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162815665,
+                    "language": null,
+                    "last_commit": "2024-06-21T12:08:56Z",
+                    "owner": "notable",
+                    "repo": "notable",
+                    "stars": 23499
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beekeeper Studio",
+                  "description": "Cross-platform SQL editor and database manager.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198484780,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T10:05:46Z",
+                    "owner": "beekeeper-studio",
+                    "repo": "beekeeper-studio",
+                    "stars": 23474
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wave Terminal",
+                  "description": "Open-source terminal with AI integration.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 501045649,
+                    "language": "Go",
+                    "last_commit": "2026-08-11T18:53:52Z",
+                    "owner": "wavetermdev",
+                    "repo": "waveterm",
+                    "stars": 22064
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kap",
+                  "description": "Screen recorder with GIF support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65411043,
+                    "language": "TypeScript",
+                    "last_commit": "2024-11-12T15:32:40Z",
+                    "owner": "wulkano",
+                    "repo": "Kap",
+                    "stars": 19331
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nuclear",
+                  "description": "Music player that streams from free sources.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68968979,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-16T00:50:31Z",
+                    "owner": "nukeop",
+                    "repo": "nuclear",
+                    "stars": 18300
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mailspring",
+                  "description": "Extensible email client. (Fork of Nylas Mail)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 70777180,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-18T21:52:22Z",
+                    "owner": "Foundry376",
+                    "repo": "Mailspring",
+                    "stars": 17745
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Boostnote",
+                  "description": "Markdown note & code snippet app for developers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 53266139,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-19T08:46:06Z",
+                    "owner": "BoostIO",
+                    "repo": "BoostNote-Legacy",
+                    "stars": 16899
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Signal Desktop",
+                  "description": "Companion desktop app for Signal mobile app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17148588,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T02:16:14Z",
+                    "owner": "signalapp",
+                    "repo": "Signal-Desktop",
+                    "stars": 16484
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KeeWeb",
+                  "description": "Unofficial KeePass app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44455683,
+                    "language": "HTML",
+                    "last_commit": "2026-05-08T03:29:03Z",
+                    "owner": "keeweb",
+                    "repo": "keeweb",
+                    "stars": 12979
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Heroic Games Launcher",
+                  "description": "Alternative Epic games launcher.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325550081,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T17:29:36Z",
+                    "owner": "Heroic-Games-Launcher",
+                    "repo": "HeroicGamesLauncher",
+                    "stars": 12039
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Medis",
+                  "description": "Redis database management.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44111975,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-21T05:21:54Z",
+                    "owner": "luin",
+                    "repo": "medis",
+                    "stars": 11726
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Light Table",
+                  "description": "Code editor with instant feedback.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 4814354,
+                    "language": "Clojure",
+                    "last_commit": "2022-06-17T00:20:21Z",
+                    "owner": "LightTable",
+                    "repo": "LightTable",
+                    "stars": 11688
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stacer",
+                  "description": "Ubuntu system optimizer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72979287,
+                    "language": "C++",
+                    "last_commit": "2024-02-10T13:08:58Z",
+                    "owner": "oguzhaninan",
+                    "repo": "Stacer",
+                    "stars": 9311
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cerebro",
+                  "description": "Launcher with inline previews.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62500776,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-11T18:24:52Z",
+                    "owner": "cerebroapp",
+                    "repo": "cerebro",
+                    "stars": 8557
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Google Play Music Desktop Player",
+                  "description": "Unofficial Google Play Music app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40008106,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T14:30:16Z",
+                    "owner": "MarshallOfSound",
+                    "repo": "Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+                    "stars": 8200
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Caprine",
+                  "description": "Unofficial Facebook Messenger app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42574339,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-02T00:12:38Z",
+                    "owner": "sindresorhus",
+                    "repo": "caprine",
+                    "stars": 7385
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Beaker",
+                  "description": "Browser with peer-to-peer web protocols.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 59700207,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-27T21:47:18Z",
+                    "owner": "beakerbrowser",
+                    "repo": "beaker",
+                    "stars": 6745
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sigma File Manager",
+                  "description": "Modern file manager.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370679811,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-21T14:21:26Z",
+                    "owner": "aleksey-hoffman",
+                    "repo": "sigma-file-manager",
+                    "stars": 6495
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pomotroid",
+                  "description": "Pomodoro timer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119006816,
+                    "language": "Rust",
+                    "last_commit": "2026-08-02T02:05:01Z",
+                    "owner": "Splode",
+                    "repo": "pomotroid",
+                    "stars": 5435
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gitify",
+                  "description": "GitHub notifications in your menubar.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36029706,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T14:52:28Z",
+                    "owner": "gitify-app",
+                    "repo": "gitify",
+                    "stars": 5321
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Simplenote",
+                  "description": "Note keeper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41199577,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T18:12:41Z",
+                    "owner": "Automattic",
+                    "repo": "simplenote-electron",
+                    "stars": 5262
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MQTTX",
+                  "description": "Client for MQTT, which is a lightweight messaging protocol.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188391577,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T05:45:43Z",
+                    "owner": "emqx",
+                    "repo": "MQTTX",
+                    "stars": 5026
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Git-it",
+                  "description": "Teaches you Git and GitHub.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35256589,
+                    "language": "Perl",
+                    "last_commit": "2024-04-10T10:28:06Z",
+                    "owner": "jlord",
+                    "repo": "git-it-electron",
+                    "stars": 4890
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sqlectron",
+                  "description": "SQL client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41959825,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-22T07:20:05Z",
+                    "owner": "sqlectron",
+                    "repo": "sqlectron",
+                    "stars": 4758
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Franz",
+                  "description": "Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106809903,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-12T13:36:11Z",
+                    "owner": "meetfranz",
+                    "repo": "franz",
+                    "stars": 4709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Buttercup Desktop",
+                  "description": "Password manager.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 42370929,
+                    "language": "TypeScript",
+                    "last_commit": "2025-03-04T09:00:43Z",
+                    "owner": "buttercup",
+                    "repo": "buttercup-desktop",
+                    "stars": 4394
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Inpad",
+                  "description": "Notes app with GitHub-flavored Markdown.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 74213528,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-17T06:23:53Z",
+                    "owner": "BoostIO",
+                    "repo": "BoostNote-App",
+                    "stars": 4049
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "YakYak",
+                  "description": "Unofficial Google Hangouts app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36730484,
+                    "language": "CoffeeScript",
+                    "last_commit": "2025-09-30T16:44:14Z",
+                    "owner": "yakyak",
+                    "repo": "yakyak",
+                    "stars": 3753
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LightProxy",
+                  "description": "Web debugging proxy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 230353730,
+                    "language": "TypeScript",
+                    "last_commit": "2023-03-06T15:05:10Z",
+                    "owner": "alibaba",
+                    "repo": "lightproxy",
+                    "stars": 3217
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tusk",
+                  "description": "Unofficial Evernote app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 99589191,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-24T12:24:58Z",
+                    "owner": "klaudiosinani",
+                    "repo": "tusk",
+                    "stars": 3154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Extraterm",
+                  "description": "Terminal.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53134541,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-05T17:32:51Z",
+                    "owner": "sedwards2009",
+                    "repo": "extraterm",
+                    "stars": 2821
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SmartMirror",
+                  "description": "Voice controlled smart mirror.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42341942,
+                    "language": "JavaScript",
+                    "last_commit": "2024-07-02T20:00:29Z",
+                    "owner": "evancohen",
+                    "repo": "smart-mirror",
+                    "stars": 2818
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sabaki",
+                  "description": "Go/Baduk/Weiqi board.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34586916,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-17T06:03:24Z",
+                    "owner": "SabakiHQ",
+                    "repo": "Sabaki",
+                    "stars": 2758
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Abricotine",
+                  "description": "Markdown editor with inline preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 46560339,
+                    "language": "JavaScript",
+                    "last_commit": "2023-07-19T08:49:21Z",
+                    "owner": "brrd",
+                    "repo": "abricotine",
+                    "stars": 2626
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ExifCleaner",
+                  "description": "Clean image metadata with drag and drop.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226020742,
+                    "language": "Perl",
+                    "last_commit": "2026-08-10T13:03:47Z",
+                    "owner": "szTheory",
+                    "repo": "exifcleaner",
+                    "stars": 2609
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mattermost",
+                  "description": "Mattermost client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43964563,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T04:15:56Z",
+                    "owner": "mattermost",
+                    "repo": "desktop",
+                    "stars": 2268
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Museeks",
+                  "description": "Music player.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31598574,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-03T11:38:11Z",
+                    "owner": "martpie",
+                    "repo": "museeks",
+                    "stars": 2129
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "massCode",
+                  "description": "Code snippet manager for developers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229697534,
+                    "language": "Vue",
+                    "last_commit": "2022-05-04T09:06:30Z",
+                    "owner": "antonreshetov",
+                    "repo": "massCode",
+                    "stars": 2017
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Browserosaurus",
+                  "description": "Browser prompter for macOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 94893151,
+                    "language": "TypeScript",
+                    "last_commit": "2025-08-02T20:43:21Z",
+                    "owner": "will-stone",
+                    "repo": "browserosaurus",
+                    "stars": 2014
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Chrome DevTools",
+                  "description": "Chrome DevTools packaged as an app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26742634,
+                    "language": "JavaScript",
+                    "last_commit": "2022-03-29T02:25:28Z",
+                    "owner": "auchenberg",
+                    "repo": "chrome-devtools-app",
+                    "stars": 1580
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Leanote",
+                  "description": "Cloud notepad.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24135832,
+                    "language": "JavaScript",
+                    "last_commit": "2024-01-12T15:04:01Z",
+                    "owner": "leanote",
+                    "repo": "desktop-app",
+                    "stars": 1561
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpaceRadar",
+                  "description": "Interactive disk space and memory visualization.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44453199,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-28T03:01:07Z",
+                    "owner": "zz85",
+                    "repo": "space-radar",
+                    "stars": 1439
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Graviton Editor",
+                  "description": "Cross-platform code editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 162125552,
+                    "language": "TypeScript",
+                    "last_commit": "2024-04-03T18:11:43Z",
+                    "owner": "Graviton-Code-Editor",
+                    "repo": "Graviton-App",
+                    "stars": 1206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Wire",
+                  "description": "Messenger and calling app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 64225407,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T08:11:58Z",
+                    "owner": "wireapp",
+                    "repo": "wire-desktop",
+                    "stars": 1127
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Buka",
+                  "description": "E-book management.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 85040944,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-04T00:45:12Z",
+                    "owner": "oguzhaninan",
+                    "repo": "Buka",
+                    "stars": 1118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tockler",
+                  "description": "Tracks your time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52711971,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-08T05:10:39Z",
+                    "owner": "MayGo",
+                    "repo": "tockler",
+                    "stars": 1067
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gmail Desktop",
+                  "description": "Unofficial Gmail app.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 57047271,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T12:12:55Z",
+                    "owner": "zoidsh",
+                    "repo": "meru",
+                    "stars": 1024
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PikaTorrent",
+                  "description": "BitTorrent client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609203812,
+                    "language": "Dart",
+                    "last_commit": "2026-08-17T21:31:35Z",
+                    "owner": "G-Ray",
+                    "repo": "pikatorrent",
+                    "stars": 1017
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "linked",
+                  "description": "Daily journal.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 349164988,
+                    "language": "JavaScript",
+                    "last_commit": "2024-07-17T06:32:50Z",
+                    "owner": "lostdesign",
+                    "repo": "linked",
+                    "stars": 1016
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swifty",
+                  "description": "Password manager.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 194523292,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-23T11:27:48Z",
+                    "owner": "swiftyapp",
+                    "repo": "swifty",
+                    "stars": 944
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MarkRight",
+                  "description": "GitHub flavored Markdown editor with live preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44099607,
+                    "language": "Clojure",
+                    "last_commit": "2025-12-09T00:58:37Z",
+                    "owner": "dvcrn",
+                    "repo": "markright",
+                    "stars": 914
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Loop Drop",
+                  "description": "MIDI looper and synth for live electronic music performances.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12895517,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-07T18:48:50Z",
+                    "owner": "mmckegg",
+                    "repo": "loop-drop-app",
+                    "stars": 835
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Headset",
+                  "description": "Discover, collect, and listen to music from YouTube.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86777943,
+                    "language": "JavaScript",
+                    "last_commit": "2026-03-25T21:54:28Z",
+                    "owner": "headsetapp",
+                    "repo": "headset-electron",
+                    "stars": 783
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pomodoro",
+                  "description": "Timer based on the Pomodoro Technique.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43559489,
+                    "language": "Rust",
+                    "last_commit": "2026-02-03T21:25:39Z",
+                    "owner": "G07cha",
+                    "repo": "pomodoro",
+                    "stars": 476
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Crypter",
+                  "description": "Secure encryption client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 56356468,
+                    "language": "JavaScript",
+                    "last_commit": "2021-02-19T13:47:51Z",
+                    "owner": "HR",
+                    "repo": "Crypter",
+                    "stars": 466
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ansel",
+                  "description": "Image organizer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53669474,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-16T15:23:40Z",
+                    "owner": "picturama",
+                    "repo": "picturama",
+                    "stars": 449
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unsplash Wallpapers",
+                  "description": "Set desktop wallpaper from Unsplash.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154007034,
+                    "language": "JavaScript",
+                    "last_commit": "2021-03-14T12:08:53Z",
+                    "owner": "soroushchehresa",
+                    "repo": "unsplash-wallpapers",
+                    "stars": 425
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Upcount",
+                  "description": "Invoicing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 169157748,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-06T11:38:38Z",
+                    "owner": "namespace-ee",
+                    "repo": "upcount",
+                    "stars": 393
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SpaceEye",
+                  "description": "Live satellite imagery for your desktop background.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265371782,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-22T05:10:28Z",
+                    "owner": "KYDronePilot",
+                    "repo": "SpaceEye",
+                    "stars": 357
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "shadowsocks-electron",
+                  "description": "Cross-platform Shadowsocks client.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 413282746,
+                    "language": "TypeScript",
+                    "last_commit": "2023-06-13T13:57:35Z",
+                    "owner": "nojsja",
+                    "repo": "shadowsocks-electron",
+                    "stars": 352
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ostara",
+                  "description": "Monitor and interact with Spring Boot apps via Actuator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576882508,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-16T00:14:23Z",
+                    "owner": "krud-dev",
+                    "repo": "ostara",
+                    "stars": 341
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Yana",
+                  "description": "Notebook app with rich-text notes, nested note organization and global search.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 304690625,
+                    "language": "TypeScript",
+                    "last_commit": "2024-07-22T08:51:29Z",
+                    "owner": "lukasbach",
+                    "repo": "yana",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Before Dawn",
+                  "description": "Screensaver tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49520328,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-14T22:56:59Z",
+                    "owner": "muffinista",
+                    "repo": "before-dawn",
+                    "stars": 215
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Proton",
+                  "description": "Markdown editor with live preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43589503,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-06T18:43:03Z",
+                    "owner": "steventhanna",
+                    "repo": "proton",
+                    "stars": 171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VIR",
+                  "description": "Intelligent time manager with automatic planning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 317779540,
+                    "language": "TypeScript",
+                    "last_commit": "2021-12-08T04:32:54Z",
+                    "owner": "TommyX12",
+                    "repo": "VIR",
+                    "stars": 164
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mouseless",
+                  "description": "Keyboard shortcut training and look-up.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 279590582,
+                    "language": "JavaScript",
+                    "last_commit": "2022-10-06T09:01:44Z",
+                    "owner": "ueberdosis",
+                    "repo": "mouseless",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Glyphfinder",
+                  "description": "Unicode character search.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 279345933,
+                    "language": "JavaScript",
+                    "last_commit": "2022-10-06T09:00:16Z",
+                    "owner": "ueberdosis",
+                    "repo": "glyphfinder",
+                    "stars": 136
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hawkpass",
+                  "description": "Password generator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52176520,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-17T18:54:35Z",
+                    "owner": "kalpetros",
+                    "repo": "hawkpass",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Catify",
+                  "description": "Utility for Spotify.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53651716,
+                    "language": "JavaScript",
+                    "last_commit": "2020-12-05T17:11:34Z",
+                    "owner": "MeoBeoI",
+                    "repo": "Catify",
+                    "stars": 65
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Electron API usage",
+              "description": "Sample apps illustrating usage of Electron APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35597922,
+                "language": "JavaScript",
+                "last_commit": "2021-08-31T17:45:12Z",
+                "owner": "hokein",
+                "repo": "electron-sample-apps",
+                "stars": 3928
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Screen Recorder",
+              "description": "WebRTC screen recorder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77552707,
+                "language": "CSS",
+                "last_commit": "2025-09-08T10:38:13Z",
+                "owner": "hokein",
+                "repo": "electron-screen-recorder",
+                "stars": 419
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        }
+      ],
       "title": "Apps"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Visual Studio Code",
-          "description": "Cross-platform IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:39:55Z",
-            "owner": "microsoft",
-            "repo": "vscode",
-            "stars": 188908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyper",
-          "description": "Terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-29T11:03:02Z",
-            "owner": "vercel",
-            "repo": "hyper",
-            "stars": 44693
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebTorrent",
-          "description": "Streaming torrent client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T21:55:07Z",
-            "owner": "webtorrent",
-            "repo": "webtorrent-desktop",
-            "stars": 10106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Min",
-          "description": "Minimal web browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T20:08:18Z",
-            "owner": "minbrowser",
-            "repo": "min",
-            "stars": 9142
-          }
-        }
-      ],
-      "title": "Featured"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mark Text",
-          "description": "Real-time preview Markdown editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-27T03:16:54Z",
-            "owner": "marktext",
-            "repo": "marktext",
-            "stars": 60242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Motrix",
-          "description": "Download manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:18:51Z",
-            "owner": "agalwood",
-            "repo": "Motrix",
-            "stars": 53553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LosslessCut",
-          "description": "Lossless video trimming & cutting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:07:25Z",
-            "owner": "mifi",
-            "repo": "lossless-cut",
-            "stars": 43017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Insomnia",
-          "description": "Create and manage HTTP requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:29:04Z",
-            "owner": "Kong",
-            "repo": "insomnia",
-            "stars": 39953
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Etcher",
-          "description": "Flash OS images to SD cards and USB drives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-02T09:25:23Z",
-            "owner": "balena-io",
-            "repo": "etcher",
-            "stars": 34187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Netron",
-          "description": "Visualizer for deep learning and machine learning models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T12:11:10Z",
-            "owner": "lutzroeder",
-            "repo": "netron",
-            "stars": 33362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notable",
-          "description": "Markdown-based note-taking.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-21T12:08:56Z",
-            "owner": "notable",
-            "repo": "notable",
-            "stars": 23498
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beekeeper Studio",
-          "description": "Cross-platform SQL editor and database manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:55:08Z",
-            "owner": "beekeeper-studio",
-            "repo": "beekeeper-studio",
-            "stars": 23465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wave Terminal",
-          "description": "Open-source terminal with AI integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T18:53:52Z",
-            "owner": "wavetermdev",
-            "repo": "waveterm",
-            "stars": 22058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kap",
-          "description": "Screen recorder with GIF support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-12T15:32:40Z",
-            "owner": "wulkano",
-            "repo": "Kap",
-            "stars": 19330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nuclear",
-          "description": "Music player that streams from free sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T00:50:31Z",
-            "owner": "nukeop",
-            "repo": "nuclear",
-            "stars": 18296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mailspring",
-          "description": "Extensible email client. (Fork of Nylas Mail)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T16:53:43Z",
-            "owner": "Foundry376",
-            "repo": "Mailspring",
-            "stars": 17741
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Boostnote",
-          "description": "Markdown note & code snippet app for developers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-04-19T08:46:06Z",
-            "owner": "BoostIO",
-            "repo": "BoostNote-Legacy",
-            "stars": 16899
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Signal Desktop",
-          "description": "Companion desktop app for Signal mobile app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T02:16:14Z",
-            "owner": "signalapp",
-            "repo": "Signal-Desktop",
-            "stars": 16483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeeWeb",
-          "description": "Unofficial KeePass app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-08T03:29:03Z",
-            "owner": "keeweb",
-            "repo": "keeweb",
-            "stars": 12978
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heroic Games Launcher",
-          "description": "Alternative Epic games launcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:29:36Z",
-            "owner": "Heroic-Games-Launcher",
-            "repo": "HeroicGamesLauncher",
-            "stars": 12029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Medis",
-          "description": "Redis database management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-21T05:21:54Z",
-            "owner": "luin",
-            "repo": "medis",
-            "stars": 11726
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Light Table",
-          "description": "Code editor with instant feedback.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2022-06-17T00:20:21Z",
-            "owner": "LightTable",
-            "repo": "LightTable",
-            "stars": 11688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stacer",
-          "description": "Ubuntu system optimizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-10T13:08:58Z",
-            "owner": "oguzhaninan",
-            "repo": "Stacer",
-            "stars": 9310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cerebro",
-          "description": "Launcher with inline previews.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T18:24:52Z",
-            "owner": "cerebroapp",
-            "repo": "cerebro",
-            "stars": 8557
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Google Play Music Desktop Player",
-          "description": "Unofficial Google Play Music app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T14:30:16Z",
-            "owner": "MarshallOfSound",
-            "repo": "Google-Play-Music-Desktop-Player-UNOFFICIAL-",
-            "stars": 8200
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Caprine",
-          "description": "Unofficial Facebook Messenger app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-02T00:12:38Z",
-            "owner": "sindresorhus",
-            "repo": "caprine",
-            "stars": 7384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beaker",
-          "description": "Browser with peer-to-peer web protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-12-27T21:47:18Z",
-            "owner": "beakerbrowser",
-            "repo": "beaker",
-            "stars": 6745
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sigma File Manager",
-          "description": "Modern file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T14:21:26Z",
-            "owner": "aleksey-hoffman",
-            "repo": "sigma-file-manager",
-            "stars": 6494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pomotroid",
-          "description": "Pomodoro timer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-02T02:05:01Z",
-            "owner": "Splode",
-            "repo": "pomotroid",
-            "stars": 5428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gitify",
-          "description": "GitHub notifications in your menubar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:52:28Z",
-            "owner": "gitify-app",
-            "repo": "gitify",
-            "stars": 5320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simplenote",
-          "description": "Note keeper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T18:12:41Z",
-            "owner": "Automattic",
-            "repo": "simplenote-electron",
-            "stars": 5260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MQTTX",
-          "description": "Client for MQTT, which is a lightweight messaging protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T05:45:43Z",
-            "owner": "emqx",
-            "repo": "MQTTX",
-            "stars": 5025
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Git-it",
-          "description": "Teaches you Git and GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-04-10T10:28:06Z",
-            "owner": "jlord",
-            "repo": "git-it-electron",
-            "stars": 4890
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sqlectron",
-          "description": "SQL client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-22T07:20:05Z",
-            "owner": "sqlectron",
-            "repo": "sqlectron",
-            "stars": 4758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Franz",
-          "description": "Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-12T13:36:11Z",
-            "owner": "meetfranz",
-            "repo": "franz",
-            "stars": 4709
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Buttercup Desktop",
-          "description": "Password manager.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-03-04T09:00:43Z",
-            "owner": "buttercup",
-            "repo": "buttercup-desktop",
-            "stars": 4394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inpad",
-          "description": "Notes app with GitHub-flavored Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-03-17T06:23:53Z",
-            "owner": "BoostIO",
-            "repo": "BoostNote-App",
-            "stars": 4049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YakYak",
-          "description": "Unofficial Google Hangouts app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2025-09-30T16:44:14Z",
-            "owner": "yakyak",
-            "repo": "yakyak",
-            "stars": 3753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LightProxy",
-          "description": "Web debugging proxy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-06T15:05:10Z",
-            "owner": "alibaba",
-            "repo": "lightproxy",
-            "stars": 3217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tusk",
-          "description": "Unofficial Evernote app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-24T12:24:58Z",
-            "owner": "klaudiosinani",
-            "repo": "tusk",
-            "stars": 3154
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Extraterm",
-          "description": "Terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-05T17:32:51Z",
-            "owner": "sedwards2009",
-            "repo": "extraterm",
-            "stars": 2821
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartMirror",
-          "description": "Voice controlled smart mirror.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-02T20:00:29Z",
-            "owner": "evancohen",
-            "repo": "smart-mirror",
-            "stars": 2818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sabaki",
-          "description": "Go/Baduk/Weiqi board.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T06:03:24Z",
-            "owner": "SabakiHQ",
-            "repo": "Sabaki",
-            "stars": 2759
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Abricotine",
-          "description": "Markdown editor with inline preview.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-07-19T08:49:21Z",
-            "owner": "brrd",
-            "repo": "abricotine",
-            "stars": 2626
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExifCleaner",
-          "description": "Clean image metadata with drag and drop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-10T13:03:47Z",
-            "owner": "szTheory",
-            "repo": "exifcleaner",
-            "stars": 2600
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mattermost",
-          "description": "Mattermost client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T04:15:42Z",
-            "owner": "mattermost",
-            "repo": "desktop",
-            "stars": 2267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Museeks",
-          "description": "Music player.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-03T11:38:11Z",
-            "owner": "martpie",
-            "repo": "museeks",
-            "stars": 2129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "massCode",
-          "description": "Code snippet manager for developers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-05-04T09:06:30Z",
-            "owner": "antonreshetov",
-            "repo": "massCode",
-            "stars": 2017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Browserosaurus",
-          "description": "Browser prompter for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-08-02T20:43:21Z",
-            "owner": "will-stone",
-            "repo": "browserosaurus",
-            "stars": 2014
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chrome DevTools",
-          "description": "Chrome DevTools packaged as an app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-29T02:25:28Z",
-            "owner": "auchenberg",
-            "repo": "chrome-devtools-app",
-            "stars": 1580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leanote",
-          "description": "Cloud notepad.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-01-12T15:04:01Z",
-            "owner": "leanote",
-            "repo": "desktop-app",
-            "stars": 1561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpaceRadar",
-          "description": "Interactive disk space and memory visualization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-28T03:01:07Z",
-            "owner": "zz85",
-            "repo": "space-radar",
-            "stars": 1439
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graviton Editor",
-          "description": "Cross-platform code editor.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-04-03T18:11:43Z",
-            "owner": "Graviton-Code-Editor",
-            "repo": "Graviton-App",
-            "stars": 1207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wire",
-          "description": "Messenger and calling app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:49:38Z",
-            "owner": "wireapp",
-            "repo": "wire-desktop",
-            "stars": 1128
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Buka",
-          "description": "E-book management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-04T00:45:12Z",
-            "owner": "oguzhaninan",
-            "repo": "Buka",
-            "stars": 1118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tockler",
-          "description": "Tracks your time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-08T05:10:39Z",
-            "owner": "MayGo",
-            "repo": "tockler",
-            "stars": 1067
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gmail Desktop",
-          "description": "Unofficial Gmail app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:42:48Z",
-            "owner": "zoidsh",
-            "repo": "meru",
-            "stars": 1024
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PikaTorrent",
-          "description": "BitTorrent client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-17T21:31:35Z",
-            "owner": "G-Ray",
-            "repo": "pikatorrent",
-            "stars": 1017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "linked",
-          "description": "Daily journal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-17T06:32:50Z",
-            "owner": "lostdesign",
-            "repo": "linked",
-            "stars": 1016
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swifty",
-          "description": "Password manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-23T11:27:48Z",
-            "owner": "swiftyapp",
-            "repo": "swifty",
-            "stars": 944
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MarkRight",
-          "description": "GitHub flavored Markdown editor with live preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2025-12-09T00:58:37Z",
-            "owner": "dvcrn",
-            "repo": "markright",
-            "stars": 914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Loop Drop",
-          "description": "MIDI looper and synth for live electronic music performances.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-07T18:48:50Z",
-            "owner": "mmckegg",
-            "repo": "loop-drop-app",
-            "stars": 835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Headset",
-          "description": "Discover, collect, and listen to music from YouTube.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-25T21:54:28Z",
-            "owner": "headsetapp",
-            "repo": "headset-electron",
-            "stars": 783
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pomodoro",
-          "description": "Timer based on the Pomodoro Technique.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-03T21:25:39Z",
-            "owner": "G07cha",
-            "repo": "pomodoro",
-            "stars": 476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Crypter",
-          "description": "Secure encryption client.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-02-19T13:47:51Z",
-            "owner": "HR",
-            "repo": "Crypter",
-            "stars": 466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ansel",
-          "description": "Image organizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T15:23:40Z",
-            "owner": "picturama",
-            "repo": "picturama",
-            "stars": 449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unsplash Wallpapers",
-          "description": "Set desktop wallpaper from Unsplash.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-03-14T12:08:53Z",
-            "owner": "soroushchehresa",
-            "repo": "unsplash-wallpapers",
-            "stars": 425
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Upcount",
-          "description": "Invoicing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-06T11:38:38Z",
-            "owner": "namespace-ee",
-            "repo": "upcount",
-            "stars": 393
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpaceEye",
-          "description": "Live satellite imagery for your desktop background.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-22T05:10:28Z",
-            "owner": "KYDronePilot",
-            "repo": "SpaceEye",
-            "stars": 357
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shadowsocks-electron",
-          "description": "Cross-platform Shadowsocks client.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-06-13T13:57:35Z",
-            "owner": "nojsja",
-            "repo": "shadowsocks-electron",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ostara",
-          "description": "Monitor and interact with Spring Boot apps via Actuator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T00:14:23Z",
-            "owner": "krud-dev",
-            "repo": "ostara",
-            "stars": 341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yana",
-          "description": "Notebook app with rich-text notes, nested note organization and global search.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-22T08:51:29Z",
-            "owner": "lukasbach",
-            "repo": "yana",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Before Dawn",
-          "description": "Screensaver tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T22:56:59Z",
-            "owner": "muffinista",
-            "repo": "before-dawn",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Proton",
-          "description": "Markdown editor with live preview.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T18:43:03Z",
-            "owner": "steventhanna",
-            "repo": "proton",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VIR",
-          "description": "Intelligent time manager with automatic planning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-12-08T04:32:54Z",
-            "owner": "TommyX12",
-            "repo": "VIR",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mouseless",
-          "description": "Keyboard shortcut training and look-up.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-10-06T09:01:44Z",
-            "owner": "ueberdosis",
-            "repo": "mouseless",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Glyphfinder",
-          "description": "Unicode character search.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-10-06T09:00:16Z",
-            "owner": "ueberdosis",
-            "repo": "glyphfinder",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hawkpass",
-          "description": "Password generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-17T18:54:35Z",
-            "owner": "kalpetros",
-            "repo": "hawkpass",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Catify",
-          "description": "Utility for Spotify.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-05T17:11:34Z",
-            "owner": "MeoBeoI",
-            "repo": "Catify",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Closed Source"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Electron API usage",
-          "description": "Sample apps illustrating usage of Electron APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-31T17:45:12Z",
-            "owner": "hokein",
-            "repo": "electron-sample-apps",
-            "stars": 3928
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Screen Recorder",
-          "description": "WebRTC screen recorder.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-09-08T10:38:13Z",
-            "owner": "hokein",
-            "repo": "electron-screen-recorder",
-            "stars": 419
-          }
-        }
-      ],
-      "title": "Samples"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1177,11 +1259,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35810174,
             "language": "TypeScript",
             "last_commit": "2026-04-29T22:35:26Z",
             "owner": "electron-react-boilerplate",
             "repo": "electron-react-boilerplate",
-            "stars": 24251
+            "stars": 24249
           }
         },
         {
@@ -1191,11 +1274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44416666,
             "language": "JavaScript",
             "last_commit": "2026-08-12T16:39:32Z",
             "owner": "electron",
             "repo": "minimal-repro",
-            "stars": 11445
+            "stars": 11444
           }
         },
         {
@@ -1205,11 +1289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86981224,
             "language": "TypeScript",
             "last_commit": "2026-08-08T08:08:18Z",
             "owner": "belnadris",
             "repo": "angular-electron",
-            "stars": 5724
+            "stars": 5723
           }
         },
         {
@@ -1219,6 +1304,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34562465,
             "language": "JavaScript",
             "last_commit": "2022-12-27T15:03:51Z",
             "owner": "szwacz",
@@ -1233,6 +1319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314510510,
             "language": "TypeScript",
             "last_commit": "2026-08-03T14:05:16Z",
             "owner": "cawa-93",
@@ -1247,6 +1334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231309416,
             "language": "JavaScript",
             "last_commit": "2026-06-30T20:40:44Z",
             "owner": "reZach",
@@ -1261,6 +1349,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34452619,
             "language": "JavaScript",
             "last_commit": "2022-08-17T23:56:39Z",
             "owner": "sindresorhus",
@@ -1275,6 +1364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57168287,
             "language": "JavaScript",
             "last_commit": "2023-10-06T20:18:48Z",
             "owner": "railsware",
@@ -1289,6 +1379,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34452195,
             "language": "JavaScript",
             "last_commit": "2024-05-01T11:37:24Z",
             "owner": "sindresorhus",
@@ -1300,724 +1391,777 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxDB",
+              "description": "A realtime NoSQL database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75425073,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:00:00Z",
+                "owner": "pubkey",
+                "repo": "rxdb",
+                "stars": 23354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "got",
+              "description": "Simplified HTTP requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18193978,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T21:38:13Z",
+                "owner": "sindresorhus",
+                "repo": "got",
+                "stars": 14930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-builder",
+              "description": "Create installers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35998691,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T01:18:36Z",
+                "owner": "electron-userland",
+                "repo": "electron-builder",
+                "stars": 14643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeDB",
+              "description": "Embedded persistent or in-memory database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9795883,
+                "language": "JavaScript",
+                "last_commit": "2025-05-15T20:08:26Z",
+                "owner": "louischatriot",
+                "repo": "nedb",
+                "stars": 13535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-vite",
+              "description": "Fast and easy-to-use build tool integrated with Vite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457280048,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T05:10:43Z",
+                "owner": "alex8088",
+                "repo": "electron-vite",
+                "stars": 5580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-store",
+              "description": "Save and load data like user preferences, app state, cache, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59649430,
+                "language": "JavaScript",
+                "last_commit": "2026-03-12T08:45:53Z",
+                "owner": "sindresorhus",
+                "repo": "electron-store",
+                "stars": 5015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-release-server",
+              "description": "Self-hosted release server with front-end & auto-updater support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52715121,
+                "language": "JavaScript",
+                "last_commit": "2024-04-22T04:21:09Z",
+                "owner": "ArekSredzki",
+                "repo": "electron-release-server",
+                "stars": 2213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "debugtron",
+              "description": "Debug in-production Electron-based apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146147992,
+                "language": "TypeScript",
+                "last_commit": "2025-11-28T03:12:26Z",
+                "owner": "pd4d10",
+                "repo": "debugtron",
+                "stars": 1740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-context-menu",
+              "description": "Extensible context menu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60405378,
+                "language": "JavaScript",
+                "last_commit": "2026-03-19T07:43:38Z",
+                "owner": "sindresorhus",
+                "repo": "electron-context-menu",
+                "stars": 1474
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-log",
+              "description": "Simple logging.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57876224,
+                "language": "JavaScript",
+                "last_commit": "2026-05-14T01:41:13Z",
+                "owner": "megahertz",
+                "repo": "electron-log",
+                "stars": 1470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-util",
+              "description": "Useful utilities for developing apps and modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92142747,
+                "language": "TypeScript",
+                "last_commit": "2025-09-09T05:56:08Z",
+                "owner": "sindresorhus",
+                "repo": "electron-util",
+                "stars": 1334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-devtools-installer",
+              "description": "Install DevTools extensions from the Chrome Web Store.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60691936,
+                "language": "TypeScript",
+                "last_commit": "2025-11-15T10:37:04Z",
+                "owner": "MarshallOfSound",
+                "repo": "electron-devtools-installer",
+                "stars": 1222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-dl",
+              "description": "Simplified file downloads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46404395,
+                "language": "JavaScript",
+                "last_commit": "2025-09-11T17:18:33Z",
+                "owner": "sindresorhus",
+                "repo": "electron-dl",
+                "stars": 1205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-rebuild",
+              "description": "Rebuild native Node.js modules against the currently installed Electron version.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35023956,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T23:12:14Z",
+                "owner": "electron",
+                "repo": "rebuild",
+                "stars": 1123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electronegativity",
+              "description": "Identify misconfigurations and security anti-patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97163387,
+                "language": "JavaScript",
+                "last_commit": "2025-08-23T17:12:02Z",
+                "owner": "doyensec",
+                "repo": "electronegativity",
+                "stars": 1054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adblocker-electron",
+              "description": "Block ads and trackers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114102066,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T20:53:54Z",
+                "owner": "ghostery",
+                "repo": "adblocker",
+                "stars": 992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ember-electron",
+              "description": "Build, test, and package Ember apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42188335,
+                "language": "JavaScript",
+                "last_commit": "2025-10-21T02:07:02Z",
+                "owner": "adopted-ember-addons",
+                "repo": "ember-electron",
+                "stars": 802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-debug",
+              "description": "Adds useful debug features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633489,
+                "language": "JavaScript",
+                "last_commit": "2024-10-14T06:23:11Z",
+                "owner": "sindresorhus",
+                "repo": "electron-debug",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-better-ipc",
+              "description": "Simplified IPC communication.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130656750,
+                "language": "JavaScript",
+                "last_commit": "2022-07-20T18:16:04Z",
+                "owner": "sindresorhus",
+                "repo": "electron-better-ipc",
+                "stars": 743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-osx-sign",
+              "description": "Code-signing for macOS apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48350919,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T20:36:13Z",
+                "owner": "electron",
+                "repo": "osx-sign",
+                "stars": 628
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-reloader",
+              "description": "Simple auto-reloading during development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116274692,
+                "language": "JavaScript",
+                "last_commit": "2023-03-27T03:00:36Z",
+                "owner": "sindresorhus",
+                "repo": "electron-reloader",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-serve",
+              "description": "Static file serving (Useful for routing, like ).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117075519,
+                "language": "JavaScript",
+                "last_commit": "2026-01-29T05:44:43Z",
+                "owner": "sindresorhus",
+                "repo": "electron-serve",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-installer-windows",
+              "description": "Create a Windows package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50786098,
+                "language": "JavaScript",
+                "last_commit": "2022-12-12T19:03:19Z",
+                "owner": "electron-userland",
+                "repo": "electron-installer-windows",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-unhandled",
+              "description": "Catch unhandled errors and promise rejections.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91302707,
+                "language": "JavaScript",
+                "last_commit": "2024-05-24T16:07:48Z",
+                "owner": "sindresorhus",
+                "repo": "electron-unhandled",
+                "stars": 465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-is-dev",
+              "description": "Check if Electron is running in development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55792629,
+                "language": "JavaScript",
+                "last_commit": "2025-09-11T17:18:58Z",
+                "owner": "sindresorhus",
+                "repo": "electron-is-dev",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-localshortcut",
+              "description": "Add keyboard shortcuts locally to a window.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45411059,
+                "language": "JavaScript",
+                "last_commit": "2024-03-23T03:53:59Z",
+                "owner": "parro-it",
+                "repo": "electron-localshortcut",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-timber",
+              "description": "Pretty logger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118626461,
+                "language": "JavaScript",
+                "last_commit": "2024-05-01T09:13:24Z",
+                "owner": "sindresorhus",
+                "repo": "electron-timber",
+                "stars": 423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-about-window",
+              "description": "'About This App' window.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48564252,
+                "language": "TypeScript",
+                "last_commit": "2024-01-09T07:33:07Z",
+                "owner": "rhysd",
+                "repo": "electron-about-window",
+                "stars": 416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-installer-debian",
+              "description": "Create a Debian package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50532900,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T07:03:36Z",
+                "owner": "electron-userland",
+                "repo": "electron-installer-debian",
+                "stars": 388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-download",
+              "description": "Download the Electron release zip from GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35385455,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T14:42:26Z",
+                "owner": "electron",
+                "repo": "get",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fix-path",
+              "description": "Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34658606,
+                "language": "JavaScript",
+                "last_commit": "2026-02-01T16:09:24Z",
+                "owner": "sindresorhus",
+                "repo": "fix-path",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-packager",
+              "description": "Package and distribute your app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32707901,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T06:18:50Z",
+                "owner": "electron",
+                "repo": "packager",
+                "stars": 300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-pdf-window",
+              "description": "View PDF files in browser windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71943929,
+                "language": "JavaScript",
+                "last_commit": "2022-03-09T19:17:11Z",
+                "owner": "gerhardberger",
+                "repo": "electron-pdf-window",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trilogy",
+              "description": "TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64280871,
+                "language": "TypeScript",
+                "last_commit": "2022-05-17T01:58:57Z",
+                "owner": "haltcase",
+                "repo": "trilogy",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "run-electron",
+              "description": "Run Electron without all the junk terminal output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144311339,
+                "language": "JavaScript",
+                "last_commit": "2024-04-30T06:40:20Z",
+                "owner": "sindresorhus",
+                "repo": "run-electron",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pluggable-electron",
+              "description": "Build apps that can be extended through plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306372568,
+                "language": "JavaScript",
+                "last_commit": "2024-04-11T14:20:13Z",
+                "owner": "dutchigor",
+                "repo": "pluggable-electron",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electronmon",
+              "description": "Monitor and reload apps out-of-process during development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172615852,
+                "language": "JavaScript",
+                "last_commit": "2025-10-26T04:42:43Z",
+                "owner": "catdad",
+                "repo": "electronmon",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-chrome-extension",
+              "description": "Add support for Chrome extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98665631,
+                "language": "TypeScript",
+                "last_commit": "2023-02-03T03:38:05Z",
+                "owner": "getstation",
+                "repo": "electron-chrome-extension",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "debug-menu",
+              "description": "Chrome-like \"inspect element\" context-menu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45754599,
+                "language": "JavaScript",
+                "last_commit": "2022-10-28T09:33:53Z",
+                "owner": "parro-it",
+                "repo": "debug-menu",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-installer-redhat",
+              "description": "Create a Red Hat package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50600863,
+                "language": "JavaScript",
+                "last_commit": "2026-08-09T23:31:33Z",
+                "owner": "electron-userland",
+                "repo": "electron-installer-redhat",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elemon",
+              "description": "Live-reload your app during development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59098337,
+                "language": "JavaScript",
+                "last_commit": "2021-02-14T00:20:30Z",
+                "owner": "manidlou",
+                "repo": "elemon",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-webauthn-mac",
+              "description": "Native WebAuthn/Passkey support for macOS apps via Apple's AuthenticationServices framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1113356614,
+                "language": "Swift",
+                "last_commit": "2025-12-11T16:27:45Z",
+                "owner": "vault12",
+                "repo": "electron-webauthn-mac",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chromium-net-errors",
+              "description": "Chromium's network errors as custom error classes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34598403,
+                "language": "C",
+                "last_commit": "2023-01-06T01:33:08Z",
+                "owner": "maxkueng",
+                "repo": "chromium-net-errors",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-is-accelerator",
+              "description": "Check if a string is a valid accelerator.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71996163,
+                "language": "JavaScript",
+                "last_commit": "2020-04-30T06:20:02Z",
+                "owner": "brrd",
+                "repo": "electron-is-accelerator",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "For Electron"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nativefier",
+              "description": "Create an app of any website.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 38558578,
+                "language": "TypeScript",
+                "last_commit": "2023-09-29T13:45:16Z",
+                "owner": "nativefier",
+                "repo": "nativefier",
+                "stars": 35285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reactotron",
+              "description": "Inspect your React and React Native apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56352157,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T22:50:44Z",
+                "owner": "infinitered",
+                "repo": "reactotron",
+                "stars": 15579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-pdf",
+              "description": "Generate PDF from URL, HTML, or Markdown files on the command-line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41043749,
+                "language": "JavaScript",
+                "last_commit": "2026-02-12T19:52:35Z",
+                "owner": "fraserxu",
+                "repo": "electron-pdf",
+                "stars": 1291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-mocha",
+              "description": "Run Mocha tests in Electron.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38903992,
+                "language": "JavaScript",
+                "last_commit": "2025-11-19T01:33:01Z",
+                "owner": "jprichardson",
+                "repo": "electron-mocha",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jest-electron",
+              "description": "Run and debug Jest unit tests in a browser environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206456491,
+                "language": "TypeScript",
+                "last_commit": "2022-07-01T09:33:03Z",
+                "owner": "hustcc",
+                "repo": "jest-electron",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "electron-stream",
+              "description": "Streaming wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45107603,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T17:49:58Z",
+                "owner": "juliangruber",
+                "repo": "electron-stream",
+                "stars": 130
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Using Electron"
+        }
+      ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RxDB",
-          "description": "A realtime NoSQL database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:13:36Z",
-            "owner": "pubkey",
-            "repo": "rxdb",
-            "stars": 23352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "got",
-          "description": "Simplified HTTP requests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T21:38:13Z",
-            "owner": "sindresorhus",
-            "repo": "got",
-            "stars": 14929
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-builder",
-          "description": "Create installers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:27:25Z",
-            "owner": "electron-userland",
-            "repo": "electron-builder",
-            "stars": 14642
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeDB",
-          "description": "Embedded persistent or in-memory database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-15T20:08:26Z",
-            "owner": "louischatriot",
-            "repo": "nedb",
-            "stars": 13535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-vite",
-          "description": "Fast and easy-to-use build tool integrated with Vite.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:10:43Z",
-            "owner": "alex8088",
-            "repo": "electron-vite",
-            "stars": 5580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-store",
-          "description": "Save and load data like user preferences, app state, cache, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-12T08:45:53Z",
-            "owner": "sindresorhus",
-            "repo": "electron-store",
-            "stars": 5015
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-release-server",
-          "description": "Self-hosted release server with front-end & auto-updater support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-22T04:21:09Z",
-            "owner": "ArekSredzki",
-            "repo": "electron-release-server",
-            "stars": 2213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "debugtron",
-          "description": "Debug in-production Electron-based apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-28T03:12:26Z",
-            "owner": "pd4d10",
-            "repo": "debugtron",
-            "stars": 1740
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-context-menu",
-          "description": "Extensible context menu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-19T07:43:38Z",
-            "owner": "sindresorhus",
-            "repo": "electron-context-menu",
-            "stars": 1474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-log",
-          "description": "Simple logging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-14T01:41:13Z",
-            "owner": "megahertz",
-            "repo": "electron-log",
-            "stars": 1469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-util",
-          "description": "Useful utilities for developing apps and modules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-09T05:56:08Z",
-            "owner": "sindresorhus",
-            "repo": "electron-util",
-            "stars": 1334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-devtools-installer",
-          "description": "Install DevTools extensions from the Chrome Web Store.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-15T10:37:04Z",
-            "owner": "MarshallOfSound",
-            "repo": "electron-devtools-installer",
-            "stars": 1222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-dl",
-          "description": "Simplified file downloads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-11T17:18:33Z",
-            "owner": "sindresorhus",
-            "repo": "electron-dl",
-            "stars": 1205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-rebuild",
-          "description": "Rebuild native Node.js modules against the currently installed Electron version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T23:12:14Z",
-            "owner": "electron",
-            "repo": "rebuild",
-            "stars": 1123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electronegativity",
-          "description": "Identify misconfigurations and security anti-patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-23T17:12:02Z",
-            "owner": "doyensec",
-            "repo": "electronegativity",
-            "stars": 1054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adblocker-electron",
-          "description": "Block ads and trackers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T04:05:36Z",
-            "owner": "ghostery",
-            "repo": "adblocker",
-            "stars": 992
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ember-electron",
-          "description": "Build, test, and package Ember apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-21T02:07:02Z",
-            "owner": "adopted-ember-addons",
-            "repo": "ember-electron",
-            "stars": 802
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-debug",
-          "description": "Adds useful debug features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-14T06:23:11Z",
-            "owner": "sindresorhus",
-            "repo": "electron-debug",
-            "stars": 782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-better-ipc",
-          "description": "Simplified IPC communication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-20T18:16:04Z",
-            "owner": "sindresorhus",
-            "repo": "electron-better-ipc",
-            "stars": 743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-osx-sign",
-          "description": "Code-signing for macOS apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T23:08:44Z",
-            "owner": "electron",
-            "repo": "osx-sign",
-            "stars": 628
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-reloader",
-          "description": "Simple auto-reloading during development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-27T03:00:36Z",
-            "owner": "sindresorhus",
-            "repo": "electron-reloader",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-serve",
-          "description": "Static file serving (Useful for routing, like ).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-29T05:44:43Z",
-            "owner": "sindresorhus",
-            "repo": "electron-serve",
-            "stars": 486
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-installer-windows",
-          "description": "Create a Windows package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-12T19:03:19Z",
-            "owner": "electron-userland",
-            "repo": "electron-installer-windows",
-            "stars": 469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-unhandled",
-          "description": "Catch unhandled errors and promise rejections.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-24T16:07:48Z",
-            "owner": "sindresorhus",
-            "repo": "electron-unhandled",
-            "stars": 465
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-is-dev",
-          "description": "Check if Electron is running in development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-11T17:18:58Z",
-            "owner": "sindresorhus",
-            "repo": "electron-is-dev",
-            "stars": 442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-localshortcut",
-          "description": "Add keyboard shortcuts locally to a window.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-23T03:53:59Z",
-            "owner": "parro-it",
-            "repo": "electron-localshortcut",
-            "stars": 426
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-timber",
-          "description": "Pretty logger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-01T09:13:24Z",
-            "owner": "sindresorhus",
-            "repo": "electron-timber",
-            "stars": 423
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-about-window",
-          "description": "'About This App' window.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-01-09T07:33:07Z",
-            "owner": "rhysd",
-            "repo": "electron-about-window",
-            "stars": 416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-installer-debian",
-          "description": "Create a Debian package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T07:03:36Z",
-            "owner": "electron-userland",
-            "repo": "electron-installer-debian",
-            "stars": 388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-download",
-          "description": "Download the Electron release zip from GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-04T14:42:26Z",
-            "owner": "electron",
-            "repo": "get",
-            "stars": 367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fix-path",
-          "description": "Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-01T16:09:24Z",
-            "owner": "sindresorhus",
-            "repo": "fix-path",
-            "stars": 301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-packager",
-          "description": "Package and distribute your app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T06:18:50Z",
-            "owner": "electron",
-            "repo": "packager",
-            "stars": 300
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-pdf-window",
-          "description": "View PDF files in browser windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-09T19:17:11Z",
-            "owner": "gerhardberger",
-            "repo": "electron-pdf-window",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trilogy",
-          "description": "TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-05-17T01:58:57Z",
-            "owner": "haltcase",
-            "repo": "trilogy",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "run-electron",
-          "description": "Run Electron without all the junk terminal output.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-30T06:40:20Z",
-            "owner": "sindresorhus",
-            "repo": "run-electron",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pluggable-electron",
-          "description": "Build apps that can be extended through plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-11T14:20:13Z",
-            "owner": "dutchigor",
-            "repo": "pluggable-electron",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electronmon",
-          "description": "Monitor and reload apps out-of-process during development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-26T04:42:43Z",
-            "owner": "catdad",
-            "repo": "electronmon",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-chrome-extension",
-          "description": "Add support for Chrome extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-02-03T03:38:05Z",
-            "owner": "getstation",
-            "repo": "electron-chrome-extension",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "debug-menu",
-          "description": "Chrome-like \"inspect element\" context-menu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-28T09:33:53Z",
-            "owner": "parro-it",
-            "repo": "debug-menu",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-installer-redhat",
-          "description": "Create a Red Hat package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T23:31:33Z",
-            "owner": "electron-userland",
-            "repo": "electron-installer-redhat",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elemon",
-          "description": "Live-reload your app during development.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-14T00:20:30Z",
-            "owner": "manidlou",
-            "repo": "elemon",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-webauthn-mac",
-          "description": "Native WebAuthn/Passkey support for macOS apps via Apple's AuthenticationServices framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-12-11T16:27:45Z",
-            "owner": "vault12",
-            "repo": "electron-webauthn-mac",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chromium-net-errors",
-          "description": "Chromium's network errors as custom error classes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-01-06T01:33:08Z",
-            "owner": "maxkueng",
-            "repo": "chromium-net-errors",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-is-accelerator",
-          "description": "Check if a string is a valid accelerator.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2020-04-30T06:20:02Z",
-            "owner": "brrd",
-            "repo": "electron-is-accelerator",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "For Electron"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nativefier",
-          "description": "Create an app of any website.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-09-29T13:45:16Z",
-            "owner": "nativefier",
-            "repo": "nativefier",
-            "stars": 35285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reactotron",
-          "description": "Inspect your React and React Native apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T22:50:44Z",
-            "owner": "infinitered",
-            "repo": "reactotron",
-            "stars": 15578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-pdf",
-          "description": "Generate PDF from URL, HTML, or Markdown files on the command-line.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-12T19:52:35Z",
-            "owner": "fraserxu",
-            "repo": "electron-pdf",
-            "stars": 1291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-mocha",
-          "description": "Run Mocha tests in Electron.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-19T01:33:01Z",
-            "owner": "jprichardson",
-            "repo": "electron-mocha",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jest-electron",
-          "description": "Run and debug Jest unit tests in a browser environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-07-01T09:33:03Z",
-            "owner": "hustcc",
-            "repo": "jest-electron",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "electron-stream",
-          "description": "Streaming wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T17:49:58Z",
-            "owner": "juliangruber",
-            "repo": "electron-stream",
-            "stars": 130
-          }
-        }
-      ],
-      "title": "Using Electron"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2026,6 +2170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44218803,
             "language": "JavaScript",
             "last_commit": "2023-07-01T05:48:32Z",
             "owner": "gabrielbull",
@@ -2040,11 +2185,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32754312,
             "language": "TypeScript",
             "last_commit": "2026-07-30T13:59:13Z",
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6778
+            "stars": 6777
           }
         },
         {
@@ -2054,6 +2200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8328202,
             "language": "JavaScript",
             "last_commit": "2023-12-28T23:33:14Z",
             "owner": "adamschwartz",
@@ -2065,12 +2212,7 @@
       "title": "Components"
     },
     {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2079,11 +2221,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737266,
             "language": null,
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66548
+            "stars": 66558
           }
         },
         {
@@ -2093,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268486207,
             "language": null,
             "last_commit": "2025-05-14T13:37:44Z",
             "owner": "doyensec",
@@ -2105,8 +2249,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:42:02.483Z",
+    "last_updated": "2026-08-19T12:31:45.646Z",
     "original_repository": "sindresorhus/awesome-electron",
+    "original_repository_id": 34453060,
     "original_repository_sha": "8a8126103752fe4e47cc0aa36711286e58ba7864",
     "enhanced_repository": "enhansome/enhansome-electron",
     "enhanced_repository_description": null,
