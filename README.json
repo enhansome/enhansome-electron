@@ -19,11 +19,11 @@
                     "id": 41881900,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T19:44:28Z",
-                    "open_issues": 21152,
+                    "last_commit": "2026-09-27T20:02:40Z",
+                    "open_issues": 21197,
                     "owner": "microsoft",
                     "repo": "vscode",
-                    "stars": 193044,
+                    "stars": 193173,
                     "topics": [
                       "editor",
                       "electron",
@@ -50,7 +50,7 @@
                     "open_issues": 1049,
                     "owner": "vercel",
                     "repo": "hyper",
-                    "stars": 44745,
+                    "stars": 44744,
                     "topics": [
                       "css",
                       "html",
@@ -112,10 +112,10 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-30T22:34:34Z",
-                    "open_issues": 606,
+                    "open_issues": 607,
                     "owner": "minbrowser",
                     "repo": "min",
-                    "stars": 9187,
+                    "stars": 9188,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:03.523Z"
@@ -139,11 +139,11 @@
                     "id": 110446844,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T12:46:20Z",
+                    "last_commit": "2026-09-27T09:52:59Z",
                     "open_issues": 375,
                     "owner": "marktext",
                     "repo": "marktext",
-                    "stars": 61861,
+                    "stars": 61885,
                     "topics": [
                       "dark-mode",
                       "editor",
@@ -175,11 +175,11 @@
                     "id": 162279822,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-26T16:41:43Z",
-                    "open_issues": 139,
+                    "last_commit": "2026-09-27T20:02:27Z",
+                    "open_issues": 143,
                     "owner": "agalwood",
                     "repo": "Motrix",
-                    "stars": 55886,
+                    "stars": 55914,
                     "topics": [
                       "aria2",
                       "bt",
@@ -212,7 +212,7 @@
                     "open_issues": 316,
                     "owner": "mifi",
                     "repo": "lossless-cut",
-                    "stars": 44071,
+                    "stars": 44100,
                     "topics": [
                       "codec",
                       "cut",
@@ -276,7 +276,7 @@
                     "open_issues": 695,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34424,
+                    "stars": 34427,
                     "topics": [
                       "cross-platform",
                       "etcher",
@@ -298,7 +298,7 @@
                     "id": 1198539,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T17:16:59Z",
+                    "last_commit": "2026-09-27T16:20:32Z",
                     "open_issues": 18,
                     "owner": "lutzroeder",
                     "repo": "netron",
@@ -336,11 +336,11 @@
                     "id": 198484780,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-25T22:01:49Z",
-                    "open_issues": 1176,
+                    "last_commit": "2026-09-27T01:01:08Z",
+                    "open_issues": 1178,
                     "owner": "beekeeper-studio",
                     "repo": "beekeeper-studio",
-                    "stars": 23678,
+                    "stars": 23680,
                     "topics": [
                       "bigquery",
                       "cassandra",
@@ -378,7 +378,7 @@
                     "open_issues": 732,
                     "owner": "notable",
                     "repo": "notable",
-                    "stars": 23495,
+                    "stars": 23494,
                     "topics": [
                       "cross-platform",
                       "electron",
@@ -408,7 +408,7 @@
                     "open_issues": 564,
                     "owner": "wavetermdev",
                     "repo": "waveterm",
-                    "stars": 22367,
+                    "stars": 22373,
                     "topics": [
                       "command-line",
                       "developer-tools",
@@ -438,7 +438,7 @@
                     "open_issues": 258,
                     "owner": "wulkano",
                     "repo": "Kap",
-                    "stars": 19376,
+                    "stars": 19377,
                     "topics": [
                       "aperture",
                       "app",
@@ -472,11 +472,11 @@
                     "id": 68968979,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-26T19:22:20Z",
+                    "last_commit": "2026-09-27T15:53:19Z",
                     "open_issues": 7,
                     "owner": "nukeop",
                     "repo": "nuclear",
-                    "stars": 18530,
+                    "stars": 18536,
                     "topics": [
                       "agent",
                       "ai",
@@ -510,11 +510,11 @@
                     "id": 70777180,
                     "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-25T21:01:26Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-09-27T16:42:09Z",
+                    "open_issues": 26,
                     "owner": "Foundry376",
                     "repo": "Mailspring",
-                    "stars": 17861,
+                    "stars": 17862,
                     "topics": [
                       "electron",
                       "electron-app",
@@ -544,7 +544,7 @@
                     "open_issues": 528,
                     "owner": "BoostIO",
                     "repo": "BoostNote-Legacy",
-                    "stars": 16887,
+                    "stars": 16886,
                     "topics": [
                       "electron",
                       "linux",
@@ -573,7 +573,7 @@
                     "open_issues": 888,
                     "owner": "signalapp",
                     "repo": "Signal-Desktop",
-                    "stars": 16561,
+                    "stars": 16560,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:03.523Z"
@@ -594,7 +594,7 @@
                     "open_issues": 442,
                     "owner": "keeweb",
                     "repo": "keeweb",
-                    "stars": 13000,
+                    "stars": 13002,
                     "topics": [
                       "electron",
                       "javascript",
@@ -620,10 +620,10 @@
                     "language": "TypeScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-26T00:49:19Z",
-                    "open_issues": 899,
+                    "open_issues": 901,
                     "owner": "Heroic-Games-Launcher",
                     "repo": "HeroicGamesLauncher",
-                    "stars": 12289,
+                    "stars": 12293,
                     "topics": [
                       "amazon-prime",
                       "electron",
@@ -659,7 +659,7 @@
                     "open_issues": 72,
                     "owner": "luin",
                     "repo": "medis",
-                    "stars": 11728,
+                    "stars": 11729,
                     "topics": [
                       "electron",
                       "gui",
@@ -717,7 +717,7 @@
                     "open_issues": 173,
                     "owner": "oguzhaninan",
                     "repo": "Stacer",
-                    "stars": 9326,
+                    "stars": 9327,
                     "topics": [
                       "desktop-application",
                       "linux",
@@ -864,7 +864,7 @@
                     "open_issues": 213,
                     "owner": "aleksey-hoffman",
                     "repo": "sigma-file-manager",
-                    "stars": 6561,
+                    "stars": 6564,
                     "topics": [
                       "app",
                       "electron",
@@ -891,10 +891,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-09-07T23:38:41Z",
-                    "open_issues": 133,
+                    "open_issues": 134,
                     "owner": "Splode",
                     "repo": "pomotroid",
-                    "stars": 5522,
+                    "stars": 5520,
                     "topics": [
                       "pomodoro",
                       "pomodoro-technique",
@@ -924,7 +924,7 @@
                     "open_issues": 16,
                     "owner": "gitify-app",
                     "repo": "gitify",
-                    "stars": 5354,
+                    "stars": 5355,
                     "topics": [
                       "bitbucket",
                       "codeberg",
@@ -962,7 +962,7 @@
                     "open_issues": 280,
                     "owner": "Automattic",
                     "repo": "simplenote-electron",
-                    "stars": 5270,
+                    "stars": 5271,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:03.523Z"
@@ -1077,7 +1077,7 @@
                     "open_issues": 390,
                     "owner": "meetfranz",
                     "repo": "franz",
-                    "stars": 4722,
+                    "stars": 4723,
                     "topics": [
                       "electron",
                       "franz",
@@ -1137,7 +1137,7 @@
                     "open_issues": 131,
                     "owner": "BoostIO",
                     "repo": "BoostNote-App",
-                    "stars": 4047,
+                    "stars": 4046,
                     "topics": [
                       "agile-development",
                       "boostnote",
@@ -1197,7 +1197,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2023-03-06T15:05:10Z",
-                    "open_issues": 83,
+                    "open_issues": 84,
                     "owner": "alibaba",
                     "repo": "lightproxy",
                     "stars": 3216,
@@ -1231,7 +1231,7 @@
                     "open_issues": 191,
                     "owner": "klaudiosinani",
                     "repo": "tusk",
-                    "stars": 3152,
+                    "stars": 3153,
                     "topics": [
                       "app",
                       "desktop",
@@ -1348,7 +1348,7 @@
                     "open_issues": 20,
                     "owner": "szTheory",
                     "repo": "exifcleaner",
-                    "stars": 2704,
+                    "stars": 2708,
                     "topics": [
                       "concurrency",
                       "dark-mode",
@@ -1415,7 +1415,7 @@
                     "id": 43964563,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T19:35:43Z",
+                    "last_commit": "2026-09-27T04:18:47Z",
                     "open_issues": 55,
                     "owner": "mattermost",
                     "repo": "desktop",
@@ -1447,7 +1447,7 @@
                     "open_issues": 73,
                     "owner": "martpie",
                     "repo": "museeks",
-                    "stars": 2136,
+                    "stars": 2135,
                     "topics": [
                       "cross-platform",
                       "electron",
@@ -1608,7 +1608,7 @@
                     "open_issues": 34,
                     "owner": "Graviton-Code-Editor",
                     "repo": "Graviton-App",
-                    "stars": 1205,
+                    "stars": 1204,
                     "topics": [
                       "cargo",
                       "css",
@@ -1722,7 +1722,7 @@
                     "id": 57047271,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-25T22:31:07Z",
+                    "last_commit": "2026-09-27T19:31:57Z",
                     "open_issues": 9,
                     "owner": "zoidsh",
                     "repo": "meru",
@@ -1757,7 +1757,7 @@
                     "open_issues": 42,
                     "owner": "G-Ray",
                     "repo": "pikatorrent",
-                    "stars": 1023,
+                    "stars": 1024,
                     "topics": [
                       "android",
                       "bittorrent",
@@ -2478,7 +2478,7 @@
             "open_issues": 9,
             "owner": "electron-react-boilerplate",
             "repo": "electron-react-boilerplate",
-            "stars": 24254,
+            "stars": 24255,
             "topics": [
               "babel",
               "boilerplate",
@@ -2508,7 +2508,7 @@
             "open_issues": 14,
             "owner": "electron",
             "repo": "minimal-repro",
-            "stars": 11446,
+            "stars": 11447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.523Z"
@@ -2581,7 +2581,7 @@
             "open_issues": 8,
             "owner": "cawa-93",
             "repo": "vite-electron-builder",
-            "stars": 2992,
+            "stars": 2993,
             "topics": [
               "best-practices",
               "boilerplate",
@@ -2734,7 +2734,7 @@
                 "id": 75425073,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T16:54:03Z",
+                "last_commit": "2026-09-27T17:52:16Z",
                 "open_issues": 19,
                 "owner": "pubkey",
                 "repo": "rxdb",
@@ -2804,8 +2804,8 @@
                 "id": 35998691,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T14:52:13Z",
-                "open_issues": 73,
+                "last_commit": "2026-09-27T15:54:23Z",
+                "open_issues": 68,
                 "owner": "electron-userland",
                 "repo": "electron-builder",
                 "stars": 14669,
@@ -2850,7 +2850,7 @@
                 "open_issues": 209,
                 "owner": "louischatriot",
                 "repo": "nedb",
-                "stars": 13531,
+                "stars": 13530,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:03.523Z"
@@ -2867,7 +2867,7 @@
                 "id": 457280048,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T13:43:29Z",
+                "last_commit": "2026-09-27T10:42:28Z",
                 "open_issues": 88,
                 "owner": "alex8088",
                 "repo": "electron-vite",
@@ -3003,8 +3003,8 @@
                 "id": 57876224,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-05-14T01:41:13Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-27T10:22:40Z",
+                "open_issues": 2,
                 "owner": "megahertz",
                 "repo": "electron-log",
                 "stars": 1475,
@@ -3099,11 +3099,11 @@
                 "id": 35023956,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T04:45:27Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-27T07:16:17Z",
+                "open_issues": 82,
                 "owner": "electron",
                 "repo": "rebuild",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:03.523Z"
@@ -3146,7 +3146,7 @@
                 "id": 114102066,
                 "language": "TypeScript",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-25T20:57:55Z",
+                "last_commit": "2026-09-26T20:55:00Z",
                 "open_issues": 38,
                 "owner": "ghostery",
                 "repo": "adblocker",
@@ -3249,8 +3249,8 @@
                 "id": 48350919,
                 "language": "TypeScript",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-23T21:56:06Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-27T19:16:10Z",
+                "open_issues": 29,
                 "owner": "electron",
                 "repo": "osx-sign",
                 "stars": 631,
@@ -3509,7 +3509,7 @@
                 "open_issues": 4,
                 "owner": "electron",
                 "repo": "get",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "electron"
                 ]
@@ -4069,7 +4069,7 @@
             "open_issues": 76,
             "owner": "max-mapper",
             "repo": "menubar",
-            "stars": 6782,
+            "stars": 6781,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.523Z"
@@ -4125,7 +4125,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66932,
+            "stars": 66943,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4163,7 +4163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:50:44.926Z",
+    "last_updated": "2026-09-27T20:08:37.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]",
@@ -4175,7 +4175,7 @@
       "open_issues": 7,
       "owner": "sindresorhus",
       "repo": "awesome-electron",
-      "stars": 27294,
+      "stars": 27295,
       "topics": [
         "awesome",
         "awesome-list",
